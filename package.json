@@ -19,6 +19,7 @@
     "elements",
     "lib",
     "src",
+    "windows",
     "RNSVG.podspec"
   ],
   "@react-native-community/bob": {
